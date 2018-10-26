@@ -1,3 +1,10 @@
+This project is now deprecated, please see the following repositories:
+
+ * https://github.com/Microsoft/typescript-tslint-plugin : the fork of this tslint TypeScript plugin language service.
+ * https://github.com/Microsoft/vscode-typescript-tslint-plugin : the vscode extension that contributes this plugin.
+ 
+It was a great experiences to work with smart guys (Mircrosoft and other guys), but today I have no time to work on this project. See discussion at https://github.com/angelozerr/tslint-language-service/issues/88#issuecomment-430142603
+
 # tslint-language-service
 
 [![Build Status](https://secure.travis-ci.org/angelozerr/tslint-language-service.png)](http://travis-ci.org/angelozerr/tslint-language-service)
