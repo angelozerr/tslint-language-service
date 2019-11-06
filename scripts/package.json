@@ -6,6 +6,6 @@
   "main": "git-tag.js",
   "devDependencies": {
     "prompt": "~0.2.14",
-    "request": "~2.55.0"
+    "request": "~2.88.0"
   }
 }
